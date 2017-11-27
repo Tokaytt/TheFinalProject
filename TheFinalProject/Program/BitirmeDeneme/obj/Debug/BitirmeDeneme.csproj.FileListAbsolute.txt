@@ -1,0 +1,9 @@
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\bin\Debug\BitirmeDeneme.exe.config
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\bin\Debug\BitirmeDeneme.exe
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\bin\Debug\BitirmeDeneme.pdb
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\obj\Debug\BitirmeDeneme.csprojResolveAssemblyReference.cache
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\obj\Debug\BitirmeDeneme.Form1.resources
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\obj\Debug\BitirmeDeneme.Properties.Resources.resources
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\obj\Debug\BitirmeDeneme.csproj.GenerateResource.Cache
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\obj\Debug\BitirmeDeneme.exe
+c:\users\tokay\documents\visual studio 2015\Projects\BitirmeDeneme\BitirmeDeneme\obj\Debug\BitirmeDeneme.pdb
